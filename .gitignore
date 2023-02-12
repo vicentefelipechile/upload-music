@@ -1,0 +1,5 @@
+build/
+dist/
+configuracion.json
+*.pem
+*.spec
