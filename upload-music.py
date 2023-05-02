@@ -11,7 +11,7 @@ def stop():
 
 class Main():
     
-    default_config: list = {
+    default_config: dict = {
         "carpeta IN": "",
         "carpeta OUT": "",
         "url": "",
